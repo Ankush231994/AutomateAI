@@ -1,9 +1,2 @@
-fastapi
-uvicorn
-sqlmodel
-pytest
-httpx
-langchain
-langchain-community
-ollama
-python-dotenv
+faiss-cpu
+numpy 

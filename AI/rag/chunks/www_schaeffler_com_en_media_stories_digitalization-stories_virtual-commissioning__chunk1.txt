@@ -1,0 +1,314 @@
+Industrial automation: efficient factory planning with AI | Schaeffler Group
+Schaeffler Group
+EN
+DE
+Contact
+Schaeffler International
+Search term
+Home
+Group
+Group
+Overview
+Group
+Shareholders
+Executive Board
+Supervisory Board
+Stronger together
+Compliance
+History
+Sustainability
+Diversity & Inclusion
+Company
+The Schaeffler Group has been driving forward groundbreaking inventions and developments in the field of motion technology for over 75 years.
+The Schaeffler Group and Vitesco have completed their merger on 1st of October 2024 to become a Leading Motion Technology company.
+Stronger together
+Strategy
+Divisions & Products
+Divisions & Products
+Overview
+Divisions & Products
+E-Mobility
+Powertrain & Chassis
+Vehicle Lifetime Solutions
+Bearings & Industrial Solutions
+Products
+Divisions & Products
+Schaeffler products facilitate and shape mobility - as they have been doing for decades. We have also continued the development of our expertise from "basic" components to complete system solutions.
+Technology & Innovation
+Technology & Innovation
+Overview
+Technology & Innovation
+Hydrogen
+Digitalization
+Digitalization
+Overview
+Digitalization
+Digitalization roadmap
+Strategic partnerships
+Open Innovation
+Open Innovation
+Overview
+Open Innovation
+SHARE Network
+Cooperation with ARENA2036
+Cooperation with STARTUP AUTOBAHN
+Corporate Venturing
+Start-ups contact form
+Future trends
+Technology
+Culture of Innovation
+Culture of Innovation
+Overview
+Culture of Innovation
+Innovation Management
+Innovation Process
+Ideas Management
+Awards
+Awards
+Overview
+Awards
+Innovation Award
+Future Technology Award
+Events
+Cooperations
+Funded Projects
+Pioneering Spirit
+Motorsport
+Motorsport
+Overview
+Motorsport
+#WhyWeRace
+DTM
+Innovation taxi
+Further commitments
+Technology & Innovation
+We work to bring about the technologies of the future and, in doing so, create the basis for our innovations to make tomorrow's worldwide mobility even better than it is today.
+Careers
+Careers
+Overview
+Careers
+Jobs
+Career Websites Worldwide
+Functional Areas
+Why Schaeffler?
+Why Schaeffler?
+Overview
+Why Schaeffler?
+Development opportunities
+Work-life balance
+Leadership culture
+Schaeffler Academy
+Global Apprenticeship
+Formula Student
+Careers
+We promote and challenge our employees with exciting tasks.
+Investor Relations
+Investor Relations
+Overview
+Investor Relations
+Corporate Governance
+Corporate Governance
+Overview
+Corporate Governance
+Executive Board
+Supervisory Board
+Remuneration of Board Members
+Articles of Association
+Declarations
+Managers‘ Transactions
+Tender offer to shareholders of Vitesco AG
+Share
+Share
+Overview
+Share
+Basic Data
+Share Price Performance
+Analysts & Consensus
+IPO 2015
+Listing Prospectus 2024
+Credit Relations
+Credit Relations
+Overview
+Credit Relations
+Schaeffler Group Bonds
+Schaeffler Group Schuldschein Loans
+Schaeffler Group CP Programme
+Schaeffler Group Green & Sustainability-Linked Financing
+IHO Holding
+Rating
+General Meeting
+General Meeting
+Overview
+General Meeting
+Annual General Meeting 2025
+Annual General Meeting 2024
+Extraordinary General Meeting and Separate Meeting of the Non-voting Common Shareholders 2024
+Annual General Meeting 2023
+Annual General Meeting 2022
+Annual General Meeting 2021
+Extraordinary General Meeting 2020
+Annual General Meeting 2020
+Annual General Meeting 2019
+Annual General Meeting 2018
+Annual General Meeting 2017
+Annual General Meeting 2016
+Events & Publications
+Events & Publications
+Overview
+Events & Publications
+Ad hoc Releases
+Voting rights announcements
+Earnings Releases
+IR Releases
+Other Presentations
+Ecosystem
+Capital Markets Day
+Acquisitions & Divestments
+Financial Calendar
+Investor Relations Contact
+Investor Relations
+Megatrends and future markets – what are the best investment strategies? What is the future of mobility? The Schaeffler Group is a leading technology company on the world’s markets.
+Media
+Media
+Overview
+Media
+Press Releases
+Press Kits
+Media Contacts
+Stories
+Stories
+Overview
+Stories
+Group & Sustainability
+Technological Expertise & Systems Know-how
+Mobility
+Digitalization
+Products
+Media Library
+Media Library
+Overview
+Media Library
+Press media
+Videos
+Publications
+Publications
+Overview
+Publications
+"tomorrow" Technology Magazine
+Apps
+Social News
+Social News
+Overview
+Social News
+LinkedIn
+Facebook
+YouTube
+Fairs & Events
+Fairs & Events
+Overview
+Fairs & Events
+Calendar of Events
+IAA MOBILITY 2025
+Hannover Messe 2025
+Annual press conference 2025
+IAA TRANSPORTATION 2024
+Schaeffler Kolloquium 2022
+Schaeffler Kolloquium 2022
+Overview
+Schaeffler Kolloquium 2022
+Digital conference book 2022
+Media
+You can find up-to-date news from the Schaeffler Group, images for the press, background information, videos, and much more for use in editorial articles about our company in the Schaeffler media area.
+Language
+EN
+DE
+Contact
+Schaeffler International
+0
+Share Page
+Facebook
+LinkedIn
+Twitter
+XING
+Mediabasket
+Are you sure
+If you click on "Delete all" all the items are removed from the cart. This action can not be undone.
+Back
+Delete all
+Your Media
+Modify
+There are no items in your Media Basket. Use to add new elements button:
+Collect media
+Note
+You can collect several media for one order in the shopping basket. The maximum order quantity for each medium is: 20 pieces It is not allowed to sell material that has been made available at no charge.
+Delete all
+Order now
+Overview
+Media
+Stories
+Digitalization
+Industrial automation: efficient factory planning with AI
+Industrial automation: efficient factory planning with AI
+Find out how Schaeffler is realizing virtual commissioning of a storage facility with Accenture, Microsoft & NVIDIA and setting new standards in industrial automation.
+Digital twins for industrial automation
+Schaeffler will develop digital twins, or digital representations of plants and machines, using the NVIDIA Omniverse platform. Employees can model entire factories using AI-powered solutions, accurately simulating the physical properties of materials, processes, and production workflows.
+Accenture provides expertise for this platform. Facilities can be put into operation more quickly because their optimal design is simulated and set in advance. This includes, among other things, the virtual layout design of production and storage facilities for efficient material flow, as well as autonomous robot training for seamless and efficient collaboration between humans and robots.
+Content Restricted
+The following content is restricted due to your privacy settings. In order to view the content, simply activate functional cookies.
+Activate functional cookies
+I understand, that by activating this option, the previously given data privacy consents will be updated.
+Read more about our Privacy Policy.
+Schaeffler uses digital twins to design facilities faster and more efficiently.
+Virtual commissioning with an optimal level of automation
+Schaeffler also uses the concept of virtual commissioning to determine the optimal level of automation for a manufacturing or storage facility in advance. In this process, the digital twin is operated virtually in different configurations: from primarily manual work, to the use of autonomous mobile robots (AMR) for supporting transport tasks, to adaptive manipulators like Schaeffler's EMMA and humanoid robots in highly automated facilities.
+Deployment of AI and humanoid robots
+Through the seamless collaboration between humanoid robots and humans, Schaeffler maximizes efficiency in the warehouse.
+Accenture and Schaeffler are testing and training robots in digital twins. Physical AI plays a key role in this process: it combines precise physical modeling of the real world with cutting-edge AI technology. This enables robots to autonomously learn how to navigate their virtual environment and accomplish tasks as efficiently as possible.
+In a proof-of concept (PoC), humanoid robots, such as Agility Robotics’ Digit, perform material handling, such as tote handling and transport to kitting and commissioning areas. The PoC also demonstrates how Sanctuary AI’s multi-dexterous humanoid robot, Phoenix, learns real-world tasks in Omniverse by observing simulations. An example is assembling customized spare part kits in a Schaeffler spare parts center. The imitation learning technique is enabled by vision AI applications like NVIDIA Metropolis, which capture movements of humans and humanoid robots in the real world and transfer them into the NVIDIA Omniverse.
+As a leading motion technology company, Schaeffler leverages disruptive innovations such as physical AI, digital twins, and humanoid robots to enhance operational excellence across our global manufacturing network. In collaboration with strong partners like Accenture, we constantly explore how disruptive technologies from NVIDIA and Microsoft can increase our flexibility and efficiency. This is how we want to jointly shape the production of the future.
+Andreas Schick
+Chief Operating Officer at Schaeffler AG
+Optimization during operation
+The simulation of various scenarios in the digital twin generates a large amount of data that should be utilized optimally. Schaeffler, together with Accenture and Avanade, a joint venture with Microsoft, is also working on this scenario.
+Data from simulations is fed into Microsoft Fabric, a unified AI-powered data platform. This allows employees to compare performance indicators such as availability, utilization, and overall equipment effectiveness of the simulated scenarios, enabling them to identify and address potential issues in a timely manner.
+Simulated data from NVIDIA Omniverse helps to optimize the work of robots.
+July 2025
+Further information
+Stories from Schaeffler: Digitalization
+Shaping the digital tomorrow – today
+Our job offers in the area of digitalization
+Share Page
+Company
+Executive Board
+Technology & Innovation
+Sustainability
+Code of Conduct
+Certificates & Awards
+E-Mobility
+Powertrain & Chassis
+Vehicle Lifetime Solutions
+Bearings & Industrial Solutions
+Investor relations
+Creditor Relations
+Financial Calendar
+Events & Publications
+Media
+Press Releases
+Stories
+Social News
+Media Library
+Service
+Job Opportunities
+Locations Worldwide
+Websites Worldwide
+Contact
+Whistleblowing system
+Legal notice
+Privacy policy
+Condition of use
+Cookie policy
+Netiquette
+© Schaeffler AG
+Schaeffler applies cookies to secure an optimal use. With the further use of this website you accept the application of cookies.
+More Information
+Accept

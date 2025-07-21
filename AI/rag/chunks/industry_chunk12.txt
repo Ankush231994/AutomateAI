@@ -1,0 +1,2 @@
+Simulated data from NVIDIA Omniverse helps to optimize the work of robots. 
+schaeffler.com

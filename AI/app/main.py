@@ -55,11 +55,11 @@ def on_startup():
 def session_init():
     logger.info("Session started")
     try:
-        with Session(engine) as session:   
-            convo = Conversation()    #
-            session.add(convo)   
-            session.commit()
-            session.refresh(convo)
+        with Session(engine) as session:   #Open DB session
+            convo = Conversation()    #Create new conversation object
+            session.add(convo)   # Stage for DB insert
+            session.commit() # Write to DB, assign ID
+            session.refresh(convo)  #Update object with DB-generated field
             logger.info(f"Session created: session_id={convo.id}")
             return {"session_id": convo.id}
     except Exception as e:
@@ -142,23 +142,22 @@ def chat(request: ChatRequest):   # handles the chat requests
             def llm_stream():
                 response = ""
                 try:
+                    print("Calling llm.stream in main.py")
                     for chunk in llm.stream(full_prompt):
                         response += chunk
                     cleaned_response = extract_final_answer(response)
                     logger.info(f"LLM response: {cleaned_response}")
-                    ai_msg = Message(session_id=request.session_id, role="assistant", text=cleaned_response) 
+                    ai_msg = Message(session_id=request.session_id, role="assistant", text=cleaned_response)  
                     with Session(engine) as s2:
                         s2.add(ai_msg)
                         s2.commit()
-                    # Yield both answer and context as a JSON string
                     import json
                     yield json.dumps({
-                        "answer": cleaned_response,
-                        #"context": [c['text'] for c in rag_chunks]
+                        "answer": cleaned_response
                     })
                 except Exception as e:
                     logger.error(f"Error in LLM streaming: {e}")
-                    yield "Internal server error during LLM response."
+                    raise HTTPException(status_code=500, detail="Internal server error during LLM response.")
             return StreamingResponse(llm_stream(), media_type="application/json")
     except HTTPException:
         raise

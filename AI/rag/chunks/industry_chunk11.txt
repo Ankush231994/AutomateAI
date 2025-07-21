@@ -1,2 +1,0 @@
-Data from simulations is fed into Microsoft Fabric, a unified AI‑powered data platform. This allows employees to compare performance indicators such as availability, utilization, and overall equipment effectiveness of the simulated scenarios, enabling them to identify and address potential issues in a timely manner. 
-schaeffler.com

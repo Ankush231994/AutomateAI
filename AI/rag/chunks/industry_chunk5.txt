@@ -1,3 +1,0 @@
-Virtual commissioning with an optimal level of automation
-Schaeffler also uses the concept of virtual commissioning to determine the optimal level of automation for a manufacturing or storage facility in advance. In this process, the digital twin is operated virtually in different configurations: from primarily manual work, to the use of autonomous mobile robots (AMR) for supporting transport tasks, to adaptive manipulators like Schaeffler’s EMMA and humanoid robots in highly automated facilities. 
-schaeffler.com

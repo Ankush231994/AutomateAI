@@ -2,8 +2,10 @@ import os
 
 # RAG/Embeddings/FAISS settings
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-RAG_DIR = os.path.join(BASE_DIR, 'rag')
-EMBEDDINGS_DIR = os.path.join(RAG_DIR, 'embeddings')
+KB_DIR = os.path.abspath(os.path.join(BASE_DIR, '..', '..', 'KB'))
+VECTOR_DIR = os.path.abspath(os.path.join(BASE_DIR, '..', '..', 'vector'))
+CHUNKS_DIR = os.path.join(VECTOR_DIR, 'chunks')
+EMBEDDINGS_DIR = os.path.join(VECTOR_DIR, 'embeddings')
 EMBEDDINGS_FILE = os.path.join(EMBEDDINGS_DIR, 'chunk_embeddings.pkl')
 FAISS_INDEX_FILE = os.path.join(EMBEDDINGS_DIR, 'faiss.index')
 

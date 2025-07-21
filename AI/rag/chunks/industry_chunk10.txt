@@ -1,3 +1,0 @@
-Optimization during operation
-The simulation of various scenarios in the digital twin generates a large amount of data that should be utilized optimally. Schaeffler, together with Accenture and Avanade (a joint venture with Microsoft), is also working on this scenario. 
-schaeffler.com

@@ -1,3 +1,0 @@
-Digital twins for industrial automation
-Schaeffler will develop digital twins, or digital representations of plants and machines, using the NVIDIA Omniverse platform. Employees can model entire factories using AI‑powered solutions, accurately simulating the physical properties of materials, processes, and production workflows. 
-schaeffler.com

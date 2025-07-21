@@ -1,11 +1,10 @@
 import os
 import pickle
 from sentence_transformers import SentenceTransformer
+from AI.config import CHUNKS_DIR, EMBEDDINGS_FILE, EMBEDDINGS_DIR
 
-CHUNKS_DIR = os.path.join(os.path.dirname(__file__), 'chunks')
-EMBEDDINGS_DIR = os.path.join(os.path.dirname(__file__), 'embeddings')
+# Ensure the output directory exists
 os.makedirs(EMBEDDINGS_DIR, exist_ok=True)
-EMBEDDINGS_FILE = os.path.join(EMBEDDINGS_DIR, 'chunk_embeddings.pkl')
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 

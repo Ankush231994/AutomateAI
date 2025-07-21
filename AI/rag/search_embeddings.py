@@ -2,17 +2,14 @@ import os
 import pickle
 import numpy as np
 import faiss
-
-EMBEDDINGS_DIR = os.path.join(os.path.dirname(__file__), 'embeddings')
-EMBEDDINGS_FILE = os.path.join(EMBEDDINGS_DIR, 'chunk_embeddings.pkl')
-FAISS_INDEX_FILE = os.path.join(EMBEDDINGS_DIR, 'faiss.index')
+from AI.config import EMBEDDINGS_FILE, FAISS_INDEX_FILE
 
 # Load embeddings
 with open(EMBEDDINGS_FILE, 'rb') as f:
     all_embeddings = pickle.load(f)
 
 # Prepare data for FAISS
-embeddings = np.stack([item['embedding'] for item in all_embeddings]).astype('float32')
+embeddings = np.stack([np.array(item['embedding'], dtype=np.float32) for item in all_embeddings])
 
 # Build FAISS index
 index = faiss.IndexFlatL2(embeddings.shape[1])
@@ -30,7 +27,10 @@ if __name__ == "__main__":
         query = input("Enter your query (or 'exit'): ").strip()
         if query.lower() == 'exit':
             break
-        query_emb = model.encode(query).astype('float32').reshape(1, -1)
+        query_emb = model.encode(query)
+        if not isinstance(query_emb, np.ndarray):
+            query_emb = np.array(query_emb)
+        query_emb = query_emb.astype('float32').reshape(1, -1)
         D, I = index.search(query_emb, 5)  # Top 5
         print("Top results:")
         for rank, idx in enumerate(I[0]):
